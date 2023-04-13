@@ -1,0 +1,2 @@
+# go-langchain
+基于go语言的类python生态中LangChain的LLMs接口框架，支持用户围绕大型语言模型快速构建应用程序。基于go语言实现更便于应用程序的部署使用。
