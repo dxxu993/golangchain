@@ -3,7 +3,7 @@ The LLMs interface framework based on the go language, similar to LangChain, aim
 
 # 🦜️🔗 Go LangChain
 
-[![go.dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=flat-square)](https://pkg.go.dev/github.com/tmc/langchaingo)
+[![go.dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=flat-square)](https://pkg.go.dev/github.com/dxxu993/golangchain)
 
 ⚡ Building applications with LLMs through composability ⚡
 
